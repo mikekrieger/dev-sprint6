@@ -1,4 +1,2 @@
-dev-sprint6
-===========
-
-Sprint 6 for the BSS Dev RampUp
+Week 6 of the BSS Dev RampUp
+Credits to Allen Downey for his Think Python book
