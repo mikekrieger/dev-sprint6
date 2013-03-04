@@ -1,3 +1,8 @@
-Week 6 of the BSS Dev RampUp
-<br>
-Credits to Allen Downey for his Think Python book
+dev-sprint6
+=======
+
+This is the repo that students will fork and submit the sprint to.
+
+Credits:
+- The Flask team (http://flask.pocoo.org/)
+- Allen Downey and his Think Python book and modules, such as Swampy (http://www.greenteapress.com/thinkpython/)
